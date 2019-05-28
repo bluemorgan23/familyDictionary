@@ -1,0 +1,11 @@
+/Users/blue/Projects/NSS/workspace/csharp/exercises/family-dictionary/bin/Debug/netcoreapp2.2/family-dictionary.deps.json
+/Users/blue/Projects/NSS/workspace/csharp/exercises/family-dictionary/bin/Debug/netcoreapp2.2/family-dictionary.runtimeconfig.json
+/Users/blue/Projects/NSS/workspace/csharp/exercises/family-dictionary/bin/Debug/netcoreapp2.2/family-dictionary.runtimeconfig.dev.json
+/Users/blue/Projects/NSS/workspace/csharp/exercises/family-dictionary/bin/Debug/netcoreapp2.2/family-dictionary.dll
+/Users/blue/Projects/NSS/workspace/csharp/exercises/family-dictionary/bin/Debug/netcoreapp2.2/family-dictionary.pdb
+/Users/blue/Projects/NSS/workspace/csharp/exercises/family-dictionary/obj/Debug/netcoreapp2.2/family-dictionary.csprojAssemblyReference.cache
+/Users/blue/Projects/NSS/workspace/csharp/exercises/family-dictionary/obj/Debug/netcoreapp2.2/family-dictionary.csproj.CoreCompileInputs.cache
+/Users/blue/Projects/NSS/workspace/csharp/exercises/family-dictionary/obj/Debug/netcoreapp2.2/family-dictionary.AssemblyInfoInputs.cache
+/Users/blue/Projects/NSS/workspace/csharp/exercises/family-dictionary/obj/Debug/netcoreapp2.2/family-dictionary.AssemblyInfo.cs
+/Users/blue/Projects/NSS/workspace/csharp/exercises/family-dictionary/obj/Debug/netcoreapp2.2/family-dictionary.dll
+/Users/blue/Projects/NSS/workspace/csharp/exercises/family-dictionary/obj/Debug/netcoreapp2.2/family-dictionary.pdb
